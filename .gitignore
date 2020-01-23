@@ -1,0 +1,7 @@
+/.vs
+/obj
+/[Ll]ibrary
+/[Ll]ogs
+/[Tt]emp
+*.csproj
+*.sln
